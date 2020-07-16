@@ -55,7 +55,7 @@ class App extends React.Component {
           <input  className="lastname" name="lastname" type="text" placeholder="apellido" /><br></br><br></br>
           <div className="correo">Correo :</div> &nbsp; &nbsp;
           <input className="email" name="email" type="text" placeholder="correo" /> <br></br><br></br>
-          <div className="contrasenia">Nombre :</div> &nbsp; &nbsp;
+          <div className="contrasenia">Contraseña :</div> &nbsp; &nbsp;
           <input className="password" name="password" type="password" placeholder="contraseña" /> <br></br><br></br>
           <input type="submit" /><br></br><br></br>
         </form>
